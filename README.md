@@ -2,15 +2,15 @@ LogLife
 ===========
 Small parser to generate graphs with the time you are spending in every aspect of your life
 
-Information
-============
-
-Dependencies
-------------
+#Information
+###Dependencies
 
 
-Getting Started
-================
+
+###Getting Started
+
+
+#Currently working on
 
 
 
